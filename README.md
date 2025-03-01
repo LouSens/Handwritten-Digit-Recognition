@@ -1,5 +1,3 @@
-# Python_AI
-
 # MNIST Digit Recognition Project
 
 ## Overview
@@ -12,7 +10,7 @@ This project is to develop a digit recognition system using a convolutional neur
 3. **Interactive GUI**: Built using Tkinter, providing users with an easy-to-use canvas for drawing digits and viewing predictions.
 4. **Data Augmentation**: Improves generalization through transformations like rotation, zoom, shifts, and shearing.
 5. **Code Quality**: Organized with clear structure, reusable methods, and meaningful variable names, following best practices in Python development.
-6. **Team Collaboration**: Each group member contributed significantly to the development, testing, and documentation.
+6. **Individual Work and Contributions**: Every element of this project reflects my personal effort, commitment, and expertise in delivering a robust solution.
 
 ## Project Structure
 ```
@@ -58,13 +56,12 @@ AIT2409110_FinalProject.zip
 
 ## Individual Work and Contributions
 I single-handedly managed all aspects of the project, including:
-- **Model Development and Training:** Designed and implemented the machine learning model from scratch, ensuring it met the required performance standards.
-- **GUI Design and Implementation:** Developed a fully functional and user-friendly graphical interface to interact with the model.
-- **Code Optimization and Debugging:** Improved the efficiency of the codebase and rigorously debugged every module to guarantee smooth execution.
-- **Documentation and Reporting:** Authored comprehensive documentation and detailed reports to explain the methodology, usage, and outcomes of the project.
+- **Model Development and Training**: Designed and implemented the machine learning model from scratch, ensuring it met the required performance standards.
+- **GUI Design and Implementation**: Developed a fully functional and user-friendly graphical interface to interact with the model.
+- **Code Optimization and Debugging**: Improved the efficiency of the codebase and rigorously debugged every module to guarantee smooth execution.
+- **Documentation and Reporting**: Authored comprehensive documentation and detailed reports to explain the methodology, usage, and outcomes of the project.
 
 Every element of this project reflects my personal effort, commitment, and expertise in delivering a robust solution.
-
 
 ## Acknowledgments
 This project was inspired by the MNIST digit recognition challenge. 
